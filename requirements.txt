@@ -1,3 +1,6 @@
-streamlit
-transformers
-PyPDF2
+PyMuPDF
+numpy
+scikit-learn
+tensorflow
+tensorflow-hub
+openai
